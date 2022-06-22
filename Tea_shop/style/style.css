@@ -52,7 +52,7 @@ nav ul li:hover {
     width: 100%;
 }
 #banner {
-    background-image: url("/img/img-mission-background.jpg");
+    background-image: url("/style/img/img-mission-background.jpg");
     background-size: cover;
     background-position: center;
     width: auto;
@@ -94,7 +94,7 @@ figcaption {
 }
 
 #loc_banner {
-    background-image: url("/img/img-locations-background-2.jpg");
+    background-image: url("/style/img/img-locations-background-2.jpg");
     background-size: cover;
     background-position: center;
     min-height: 500px;
